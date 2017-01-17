@@ -23,6 +23,10 @@ ir. P. Vos (Experis Ciber)
 
 Eindhoven, January 2017
 
+
+
+ABSTRACT
+
 This study compares three process mining approaches to complete a process mining project in real-life. 
 The motivation for this comparison is driven by the manifestation of a new technique to
 create event logs, namely through the extraction of redo logs of a Data Base Management System.
